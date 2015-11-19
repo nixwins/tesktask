@@ -1,0 +1,89 @@
+body{
+
+}
+
+
+
+.col-xs-12
+{
+	background: #ECF0F1;
+	margin-top:10px;
+	height:100%;
+	text-align:center;
+	padding:0;
+}
+
+.col-xs-4
+{
+	margin-top:5px;
+	margin-left:0px;
+	height:800px;
+	background: #ffffff;
+}
+.col-xs-8
+{
+	margin-top:5px;
+	margin-left:0px;
+	height:100%;
+	text-align:center;
+	/*background: #ECF0F1;*/
+}
+.col-xs-10{
+	margin-left:10%;
+	position: relative;
+	
+}
+.col-xs-10 h3
+{
+	background:#34495E;
+	text-align:center;
+	color:#fff;
+}
+.col-xs-10  .artInfo 
+{
+	position:absolute;
+	background:#9B59B6;
+	color:#fff;
+	font-size:14px;
+	 bottom: 5px; /* Положение от нижнего края */
+    right: 15px;
+}
+.col-xs-10 p
+{
+	
+	height:100%;
+	background: #34495E;
+	color:#c4c4c4;
+	text-align:justify;
+	margin:5px auto;
+	padding:0 5px 0 5px;
+}
+.table{
+	margin-top:10px;
+	background:#ffffff;
+}
+.table th {
+	
+	background:
+}
+
+.table .edittd button{
+	margin-bottom:10px;
+}
+input.title{
+	margin-bottom:10px;
+}
+textarea.form-control {
+	margin-bottom:10px;
+	height:120px;
+	overflow:scroll;
+}
+textarea.newsbody{
+	margin-bottom:20px;
+}
+#successSaving{
+	position: relative;
+	bottom: 100px; /* Положение от нижнего края */
+    right: 15px;
+}
+
